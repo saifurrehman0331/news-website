@@ -71,3 +71,35 @@ nav table,li {
     width: 50%;
     margin-left: 50%;
 }
+.news4 {
+    width: 99%; 
+    height: 190px;
+     margin-top: 30px;
+}
+.news4-box {
+    width: 23.50%;
+     height: 180px;
+      float: left;
+      margin-top: 10px;
+}
+.news4-box2 {
+    width: 23.50%; 
+    height: 180px; 
+    float: left;
+    margin-top: 10px
+    ;margin-left: 1%;
+}
+.news4-box3 {
+    width: 23.50%; 
+    height: 180px; 
+    float: left;
+    margin-top: 10px
+    ;margin-left: 1%;
+}
+.news4-box4 {
+    width: 23.50%; 
+    height: 180px; 
+    float: left;
+    margin-top: 10px
+    ;margin-left: 1%;
+}
